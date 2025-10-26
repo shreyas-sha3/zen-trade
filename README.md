@@ -1,6 +1,6 @@
-# AutoAngel - Automated Trading System for Angel One
+# ZenTrade - Automated Trading System for Angel One
 
-AutoAngel is an automated trading system that interfaces with Angel One's SmartAPI to execute trades based on volume and price movements. The system includes real-time market data monitoring, automated trading signals, and live visualization of price movements.
+ZenTrade is an automated trading system that interfaces with Angel One's SmartAPI to execute trades based on volume and price movements. The system includes real-time market data monitoring, automated trading signals, and live visualization of price movements.
 
 ## Features
 
@@ -39,8 +39,8 @@ The system implements a volume-based trading strategy:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AutoAngel.git
-cd AutoAngel
+git clone https://github.com/yourusername/ZenTrade.git
+cd ZenTrade
 ```
 
 2. Install required packages:

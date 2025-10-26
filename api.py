@@ -24,7 +24,6 @@ otp = pyotp.TOTP(TOTP_SECRET).now()
 smartApi = SmartConnect(api_key=API_KEY)
 def login():
     try:
-        #please working fking nigger
         response = smartApi.generateSession(CLIENT_CODE, PASSWORD, otp)
         print("Login response:")
         print(response)\
