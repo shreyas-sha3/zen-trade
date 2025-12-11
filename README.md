@@ -95,11 +95,3 @@ stocks = ["BPCL"]  # Add more stock symbols as needed
 ## Disclaimer
 
 This is an automated trading system. Please use it at your own risk and ensure you understand the trading strategy before deploying with real funds. Past performance does not guarantee future results.
-
-## License
-
-[Add your chosen license here]
-
-## Contributing
-
-Feel free to open issues or submit pull requests for improvements.
